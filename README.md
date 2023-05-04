@@ -12,5 +12,5 @@ pip install opencv-python
 #### 2. run
 
 ```
-python subtitledownload --video_url XXX --video_save_path XXX
+python subtitle_download.py --video_url XXX --video_save_path XXX
 ```
